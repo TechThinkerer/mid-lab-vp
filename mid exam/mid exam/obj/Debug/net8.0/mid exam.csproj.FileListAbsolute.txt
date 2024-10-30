@@ -1,0 +1,14 @@
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.AssemblyInfoInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.AssemblyInfo.cs
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.csproj.CoreCompileInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\bin\Debug\net8.0\mid exam.exe
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\bin\Debug\net8.0\mid exam.deps.json
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\bin\Debug\net8.0\mid exam.runtimeconfig.json
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\bin\Debug\net8.0\mid exam.dll
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\bin\Debug\net8.0\mid exam.pdb
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.dll
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\refint\mid exam.dll
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.pdb
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\mid exam.genruntimeconfig.cache
+C:\Users\Fazeel Nadeem\source\repos\mid exam\mid exam\obj\Debug\net8.0\ref\mid exam.dll
